@@ -1,0 +1,15 @@
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+C:\TrueCoders\GitHub\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
